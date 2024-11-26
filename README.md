@@ -13,7 +13,7 @@ Before you begin, ensure that you have the following prerequisites:
 - STM32 development board with Ethernet connectivity, we use STM32F429ZIT6 Nucleo board for this example.
 - STM32CubeIDE and STM32CubeMX for STM32 development.
 - Ethernet cable to connect to the router. 
-- Router with Ethernet ports to configure IP for STM32 development board and server.
+- Router ( can connect to internet) with Ethernet ports to configure IP for STM32 development board and server.
 
 ### Installation
 
